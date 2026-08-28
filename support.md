@@ -24,7 +24,7 @@ Please include a brief description of the problem. Do not send passwords, authen
 
 ## Account deletion
 
-Registered users can permanently delete their account from within the app under **More ? Delete Account**.
+Registered users can request permanent account deletion from within the app under **More -> Delete Account**.
 
 ## Privacy
 
