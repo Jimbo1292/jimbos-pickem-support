@@ -4,7 +4,7 @@ title: Privacy Policy
 
 # Privacy Policy for Jimbo's Pick'Em Challenge
 
-Effective date: **[publication date — set when this policy is published]**
+Effective date: **October 17, 2026**
 
 Operator: **Jim Hand**
 
